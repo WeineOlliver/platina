@@ -73,8 +73,8 @@ terraform.rc
 *~
 
 # Third-party data & snapshots
-services/ingest/data/
-data/
+services/ingest/data/*/parsed/
+services/ingest/data/*/linked/
 
 # Golden Evaluation Artifacts
 services/ingest/tests/golden/snapshots/
