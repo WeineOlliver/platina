@@ -80,3 +80,4 @@ services/ingest/data/*/linked/
 services/ingest/tests/golden/snapshots/
 services/ingest/tests/eval/results/
 tests/eval/results/
+coverage/
